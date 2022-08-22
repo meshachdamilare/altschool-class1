@@ -1,3 +1,3 @@
 Hello
 
-![alt text](http://ithub.com/Christomesh/hello/class1.png)
+![alt text](https://github.com/Christomesh/altschool-class1/blob/master/class1.png)
